@@ -13,3 +13,8 @@ Truong: Dai hoc Nguyen Tat Thanh
 
 ## Huong dan
 Kho luu tru ma nguon du an Quan Ly Ban Hang.
+## Module đăng nhập
+
+- Xây dựng chức năng đăng nhập.
+- Bổ sung kiểm tra thông tin đăng nhập.
+- Cập nhật hướng phát triển xác thực OAuth2.
